@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **lqnhat136@gmail.com**
 
-- 📄 Know about my experiences [1 year working with python about BackEnd and AI](1 year working with python about BackEnd and AI)
+- 📄 Know about my experiences: 1 year working with python about BackEnd and AI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
