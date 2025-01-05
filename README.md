@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **VJ technologies**
-
-- 🌱 I’m currently learning **Django and Machine Learning**
+- 🔭 I used to work at **VJ technologies (3/2023 - 12/2024)** 
 
 - 👯 I’m looking to collaborate on **BackEnd and AI projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nate-q-136](https://github.com/nate-q-136)
 
-- 💬 Ask me about **ReactJS, Django, Machine Learning**
+- 💬 Ask me about **ReactJS, Django, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **lqnhat136@gmail.com**
 
